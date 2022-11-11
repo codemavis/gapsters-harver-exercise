@@ -1,0 +1,15 @@
+{
+    "dir": "./combined-image/",
+    "combinedFileName": "cat-card",
+    "combinedFileType": "jpg",
+    "encoding": "binary",
+    "baseUrl": "https://cataas.com/cat/says/",
+    "width": 400,
+    "height": 500,
+    "color": "Pink",
+    "size": 100,
+    "imageTextContents": [
+        "Hello",
+        "You"
+    ] 
+}

@@ -1,0 +1,32 @@
+{
+  "name": "gapsters-harver-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codemavis/gapsters-harver-exercise.git"
+  },
+  "author": "sujee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codemavis/gapsters-harver-exercise/issues"
+  },
+  "homepage": "https://github.com/codemavis/gapsters-harver-exercise#readme",
+  "dependencies": {
+    "@mapbox/blend": "^2.0.1",
+    "fs": "0.0.1-security",
+    "merge-images": "^2.0.0",
+    "minimist": "^1.2.7",
+    "node-fetch": "^2.6.2",
+    "node-tls": "^0.10.2",
+    "nvm": "0.0.4",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "yarn": "^1.22.19"
+  }
+}
