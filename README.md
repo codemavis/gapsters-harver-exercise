@@ -3,6 +3,9 @@
 #Installation - install npm packages
 npm i
 
+#Main/entry point
+app.js
+
 #Configuration - json file to maintain the configuration details. 
 {
     "dir": "./combined-image/",
