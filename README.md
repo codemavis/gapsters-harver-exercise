@@ -76,7 +76,11 @@ node app.js
 
 ### Application output
 
-The combined image will be saved under a new folder named combined-image
+* The following log will appear in the console if successfully combined.
+```
+The file was saved!
+```
+* The combined image will be saved under a new folder named combined-image in the root.
 
 
 ## Author
